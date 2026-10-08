@@ -4,7 +4,6 @@ This repository contains the code, data, and predictions for a polynomial regres
 
 ## Files Included
 * `train_and_predict.py`: The main execution script. It performs feature subset selection, polynomial degree sweeps, and evaluates OLS vs. Regularized models (Ridge/Lasso).
-* `BT2024148_train_var1.csv` & `BT2024148_train_var2.csv`: The personalized training datasets.
 * `BT2024148_pred_var1.csv` & `BT2024148_pred_var2.csv`: The final model predictions on the unseen test data.
 * `figures/`: Contains generated plots for error sweeping and model comparisons.
 * `README.md`: Project documentation.
